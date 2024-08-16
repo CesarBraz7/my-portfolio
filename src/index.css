@@ -1,0 +1,39 @@
+:root {
+  --light-primary-bg-color: white;
+  --light-secondary-bg-color: #FAFAFF;
+  --gradient: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+  --light-primary-text-color: black;
+  --light-secondary-text-color: dimgrey;
+  --light-footer-color: #1C1C1C
+}
+
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+  width: 0.5rem;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: none;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);    /* color of the scroll thumb */
+}
+
+a {
+  font-weight: 500;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+}
+
+p {
+  font-weight: 400;
+}

@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: static;
+    height: 10vh;
+    width: 100vw;
+}
+
+#navigation {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+#navigation a {
+    font-size: larger;
+}
