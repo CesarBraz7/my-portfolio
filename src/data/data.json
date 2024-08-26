@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "image": "/my-portfolio/src/assets/experience/fabrica.png",
+      "title": "Fábrica de Software",
+      "role": "Desenvolvedor fullstack",
+      "description": "Desenvolvimento de WEB APIs e telas com .NET, Dapper e NextJS."
+    },
+    {
+      "id": 2,
+      "image": "/my-portfolio/src/assets/experience/btor.png",
+      "title": "Btor",
+      "role": "Desenvolvedor backend",
+      "description": "Construção de microsserviços que envia requisições para um banco."
+    },
+    {
+      "id": 3,
+      "image": "/my-portfolio/src/assets/experience/compassuol.png",
+      "title": "Compass UOL",
+      "role": "Desenvolvedor frontend",
+      "description": "Desenvolvimento de websites com ReactJS."
+    }
+  ]
